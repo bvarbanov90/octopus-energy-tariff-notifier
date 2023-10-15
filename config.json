@@ -1,0 +1,14 @@
+{
+    "API_KEY": "",
+    "PRODUCT_CODE": "SILVER-FLEX-22-11-25",
+    "TARIFF_CODE": {
+      "elect_tariff_code": "electricity-tariffs/E-1R-SILVER-FLEX-22-11-25-A",
+      "gas_tariff_code": "gas-tariffs/G-1R-SILVER-FLEX-22-11-25-A"
+    },
+    "FROM_EMAIL": "",
+    "TO_EMAIL": "",
+    "SMTP_SERVER": "",
+    "SMTP_PORT": 587,
+    "SMTP_USERNAME": "",
+    "SMTP_PASSWORD": ""
+  }  
