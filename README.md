@@ -24,19 +24,18 @@ Execute the Jupyter Notebook `OctopusTarrifPriceNotification.ipynb`.
 ## Example Output
 
 ### Electricity
-[Octopus] Daily Energy Prices Notification
-Tarrif electricity-tariffs/E-1R-SILVER-FLEX-22-11-25-A price comparison for 2023-10-15:
-Price today: 16.87 p/kWh
-Price tomorrow: 23.94 p/kWh
-Average price yesterday(2023-10-14): 17.52 p/kWh, Absolute Change: -0.65 p/kWh, % Change: -3.70%
-...
-
+[Octopus] Daily Energy Prices Notification  
+Tarrif electricity-tariffs/E-1R-SILVER-FLEX-22-11-25-A price comparison for 2023-10-15:  
+Price today: 16.87 p/kWh  
+Price tomorrow: 23.94 p/kWh  
+Average price yesterday(2023-10-14): 17.52 p/kWh, Absolute Change: -0.65 p/kWh, % Change: -3.70%  
+...  
 
 ### Gas
 
-[Octopus] Daily Energy Prices Notification
-Tarrif gas-tariffs/G-1R-SILVER-FLEX-22-11-25-A price comparison for 2023-10-15:
-Price today: 6.35 p/kWh
-Price tomorrow: 6.42 p/kWh
-Average price yesterday(2023-10-14): 6.37 p/kWh, Absolute Change: -0.02 p/kWh, % Change: -0.33%
-...
+[Octopus] Daily Energy Prices Notification  
+Tarrif gas-tariffs/G-1R-SILVER-FLEX-22-11-25-A price comparison for 2023-10-15:  
+Price today: 6.35 p/kWh  
+Price tomorrow: 6.42 p/kWh  
+Average price yesterday(2023-10-14): 6.37 p/kWh, Absolute Change: -0.02 p/kWh, % Change: -0.33%  
+...  
