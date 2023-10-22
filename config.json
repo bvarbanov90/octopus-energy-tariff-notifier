@@ -5,6 +5,9 @@
       "elect_tariff_code": "electricity-tariffs/E-1R-SILVER-FLEX-22-11-25-A",
       "gas_tariff_code": "gas-tariffs/G-1R-SILVER-FLEX-22-11-25-A"
     },
+    "PERIOD_FROM": "2022-10-01T00:00Z",
+    "PERIOD_TO": "2023-10-23T00:00Z",
+    "PAGE_SIZE": 1500,
     "FROM_EMAIL": "",
     "TO_EMAIL": "",
     "SMTP_SERVER": "",
