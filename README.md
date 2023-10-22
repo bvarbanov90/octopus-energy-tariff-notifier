@@ -79,3 +79,18 @@ The `config.json` file is required for setting the API key, product code, tariff
 3. Update the `config.json` file with the necessary configurations. API_KEY as a mandatory minimum!
 4. Open `OctopusTariffAnalysisAndProphet.ipynb` in Jupyter Notebook.
 5. Run all cells to perform the analysis and generate plots.
+
+## Example of output figure plots in HTML
+### Monthly energy prices
+![image](https://github.com/bvarbanov90/octopus-energy-tariff-notifier/assets/5960215/5c208192-09df-4097-9385-6c5bed082177)
+![image](https://github.com/bvarbanov90/octopus-energy-tariff-notifier/assets/5960215/f82ade54-8704-4dc8-a0cc-4942cd858147)
+
+### Energy Prices with Anomalies
+![image](https://github.com/bvarbanov90/octopus-energy-tariff-notifier/assets/5960215/8f15759f-1213-45b8-a8e0-37583d75c980)
+
+### Electricity Tariff Price Forecast for Next 3 Months
+![image](https://github.com/bvarbanov90/octopus-energy-tariff-notifier/assets/5960215/111ce6bb-3484-4fc3-99d7-7227f2db41ae)
+
+### Gas Tariff Price Forecast for Next 3 Months
+![image](https://github.com/bvarbanov90/octopus-energy-tariff-notifier/assets/5960215/0a3fac8c-312c-4476-b5c3-efa455a84b51)
+
