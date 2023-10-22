@@ -40,14 +40,11 @@ Price tomorrow: 6.42 p/kWh
 Average price yesterday(2023-10-14): 6.37 p/kWh, Absolute Change: -0.02 p/kWh, % Change: -0.33%  
 ...  
 
-# Octopus Tariff Analysis and Forecasting
+# Octopus Tariff Analysis and Forecasting (OctopusTariffAnalysisAndProphet.ipynb)
 
 ## Overview
 
-This project is focused on analyzing energy tariffs from the Octopus Energy API and forecasting future prices using the Prophet library. The analysis is performed via a Jupyter Notebook and the results are visualized using Plotly.
-
-**Copyright**: 2023 Borislav Rumenov Varbanov  
-**License**: Apache License, Version 2.0
+This project is focused on analyzing energy tariffs from the Octopus Energy API and forecasting future prices using the Prophet library. The analysis is performed via the OctopusTariffAnalysisAndProphet.ipynb Jupyter Notebook and the results are visualized using Plotly.
 
 ## Requirements
 
